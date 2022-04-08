@@ -1,0 +1,23 @@
+body {
+  background: url("../img/imagen.jpeg");
+  text-align: center;
+
+}
+h1 {
+    color:aqua;
+}
+
+h2{
+    color:blueviolet;
+}
+
+p{
+    color:blue;
+}
+button{
+    padding: 12px 40px;
+    color: black;
+    border: 2px solid red;
+    border-radius: 30px;
+    background:white;
+}
